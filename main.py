@@ -1,9 +1,6 @@
 import heapq
 import random
-# import unittest
 
-import heapq
-import random
 
 class TubePuzzle:
     def __init__(self, num_tubes=None, num_colors=None, tube_capacity=None, initial_matrix=None):
